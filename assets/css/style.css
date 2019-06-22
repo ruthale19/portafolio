@@ -1,0 +1,47 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+header {
+  background-image: url('../img/bg_hero.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-bottom: 10rem;
+  height: 40rem;
+}
+
+
+.sub {
+  border-bottom-width: 2.5px;
+  border-bottom-style: solid;
+  border-bottom-color: #FFFFFF;
+  display: inline-block;
+}
+
+.bordesup {
+  padding-top: 370px;
+}
+
+.dimension1 {
+  width: 50px;
+}
+
+.parrafo {
+  line-height:40px;
+  margin-inline-start: 30px;
+  margin-inline-end: 30px;
+}
+
+a {
+  color: #000000;
+}
+
+.card, .centro {
+  margin: 0 auto;
+}
+
+.fcolors  a {
+  color: #FFFFFF;
+}
